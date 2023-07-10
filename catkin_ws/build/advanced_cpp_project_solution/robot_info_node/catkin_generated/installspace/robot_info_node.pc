@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: robot_info_node
+Description: Description of robot_info_node
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

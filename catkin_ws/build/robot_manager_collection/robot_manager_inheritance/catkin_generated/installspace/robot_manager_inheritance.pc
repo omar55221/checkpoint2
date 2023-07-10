@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: robot_manager_inheritance
+Description: Description of robot_manager_inheritance
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrobot_manager_inheritance
+Requires: nav_msgs roscpp std_srvs

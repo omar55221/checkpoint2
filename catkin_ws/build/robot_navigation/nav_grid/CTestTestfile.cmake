@@ -1,0 +1,10 @@
+# CMake generated Testfile for 
+# Source directory: /home/user/catkin_ws/src/robot_navigation/nav_grid
+# Build directory: /home/user/catkin_ws/build/robot_navigation/nav_grid
+# 
+# This file includes the relevant testing commands required for 
+# testing this directory and lists subdirectories to be tested as well.
+add_test(_ctest_nav_grid_roslint_package "/home/user/catkin_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python3" "/opt/ros/noetic/share/catkin/cmake/test/run_tests.py" "/home/user/catkin_ws/build/test_results/nav_grid/roslint-nav_grid.xml" "--working-dir" "/home/user/catkin_ws/build/robot_navigation/nav_grid" "--return-code" "/opt/ros/noetic/share/roslint/cmake/../../../lib/roslint/test_wrapper /home/user/catkin_ws/build/test_results/nav_grid/roslint-nav_grid.xml make roslint_nav_grid")
+set_tests_properties(_ctest_nav_grid_roslint_package PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/noetic/share/catkin/cmake/test/tests.cmake;160;add_test;/opt/ros/noetic/share/roslint/cmake/roslint-extras.cmake;67;catkin_run_tests_target;/home/user/catkin_ws/src/robot_navigation/nav_grid/CMakeLists.txt;15;roslint_add_test;/home/user/catkin_ws/src/robot_navigation/nav_grid/CMakeLists.txt;0;")
+add_test(_ctest_nav_grid_gtest_nav_grid_utest "/home/user/catkin_ws/build/catkin_generated/env_cached.sh" "/usr/bin/python3" "/opt/ros/noetic/share/catkin/cmake/test/run_tests.py" "/home/user/catkin_ws/build/test_results/nav_grid/gtest-nav_grid_utest.xml" "--return-code" "/home/user/catkin_ws/devel/lib/nav_grid/nav_grid_utest --gtest_output=xml:/home/user/catkin_ws/build/test_results/nav_grid/gtest-nav_grid_utest.xml")
+set_tests_properties(_ctest_nav_grid_gtest_nav_grid_utest PROPERTIES  _BACKTRACE_TRIPLES "/opt/ros/noetic/share/catkin/cmake/test/tests.cmake;160;add_test;/opt/ros/noetic/share/catkin/cmake/test/gtest.cmake;98;catkin_run_tests_target;/opt/ros/noetic/share/catkin/cmake/test/gtest.cmake;37;_catkin_add_google_test;/home/user/catkin_ws/src/robot_navigation/nav_grid/CMakeLists.txt;16;catkin_add_gtest;/home/user/catkin_ws/src/robot_navigation/nav_grid/CMakeLists.txt;0;")

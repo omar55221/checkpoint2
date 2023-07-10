@@ -1,0 +1,8 @@
+prefix=/home/user/catkin_ws/install
+
+Name: robot_manager_minigui
+Description: Description of robot_manager_minigui
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
