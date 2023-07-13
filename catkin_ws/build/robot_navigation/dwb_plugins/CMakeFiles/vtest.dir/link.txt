@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/vtest.dir/test/velocity_iterator_test.cpp.o  -o /home/user/catkin_ws/devel/lib/dwb_plugins/vtest   -L/home/user/catkin_ws/build/gtest  -Wl,-rpath,/home/user/catkin_ws/build/gtest:/home/user/catkin_ws/build/gtest/lib ../../gtest/lib/libgtest.so -lpthread 

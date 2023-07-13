@@ -1,8 +1,0 @@
-prefix=/home/user/catkin_ws/install
-
-Name: locomotor_msgs
-Description: Description of locomotor_msgs
-Version: 0.3.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: actionlib_msgs message_runtime nav_2d_msgs

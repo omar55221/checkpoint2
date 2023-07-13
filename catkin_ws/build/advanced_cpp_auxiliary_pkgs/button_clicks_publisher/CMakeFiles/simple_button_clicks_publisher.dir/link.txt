@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC   -shared -Wl,-soname,libsimple_button_clicks_publisher.so -o /home/user/catkin_ws/devel/lib/libsimple_button_clicks_publisher.so CMakeFiles/simple_button_clicks_publisher.dir/src/simple_button_clicks_publisher.cpp.o 

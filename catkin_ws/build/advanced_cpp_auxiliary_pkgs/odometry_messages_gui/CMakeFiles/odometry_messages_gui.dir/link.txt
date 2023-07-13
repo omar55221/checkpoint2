@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC   -shared -Wl,-soname,libodometry_messages_gui.so -o /home/user/catkin_ws/devel/lib/libodometry_messages_gui.so CMakeFiles/odometry_messages_gui.dir/src/odometry_messages_gui.cpp.o 

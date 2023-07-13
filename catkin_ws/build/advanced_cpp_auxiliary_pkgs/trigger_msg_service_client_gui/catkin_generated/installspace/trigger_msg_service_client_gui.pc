@@ -1,8 +1,0 @@
-prefix=/home/user/catkin_ws/install
-
-Name: trigger_msg_service_client_gui
-Description: Description of trigger_msg_service_client_gui
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
